@@ -1,1 +1,1 @@
-# boxer-baby
+# Box Class
